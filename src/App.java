@@ -1,3 +1,12 @@
+/*
+ *  Title: Assignment 7 - Weighted Graphs
+ *  Created by: Robert Norlander
+ *  Email: shamotar@csp.edu
+ *  Date: 2025-02-26
+ *  Class: CSC 420 - Data Structures and Algorithms
+ *  Professor: Susan Furtney
+ */
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
